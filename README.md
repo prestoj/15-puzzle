@@ -1,6 +1,6 @@
 # 15-puzzle
 
-For the blog post explaining much of this code, visit www.google.com
+For the blog post explaining much of this code, visit https://medium.com/@prestonbjensen/solving-the-15-puzzle-e7e60a3d9782
 
 board.py contains the Board class, which is a simulation of the 15-puzzle using numpy.
 
