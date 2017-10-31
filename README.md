@@ -9,3 +9,6 @@ utils.py contains a couple useful data structures (Priority Queue, and Node).
 intelligence.py is where the A* and pure heuristic search algorithms are, along with the number wrong heuristic and Manhattan distance heuristic.
 
 neural_network.py uses a neural network to serve as a heuristic function. 
+
+The models folder contains a few different neural network architectures that you can load to use as the neural heuristic function.
+
